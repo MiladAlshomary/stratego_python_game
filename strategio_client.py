@@ -19,9 +19,6 @@ HEIGHT = 40
 MARGIN = 5
 
 class MyStratego(ConnectionListener):
-
-	player = "milad"
-
 	"""docstring for ClassName"""
 	def __init__(self):
 		pygame.init()
